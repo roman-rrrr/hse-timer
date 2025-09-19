@@ -6,3 +6,4 @@ def format_time(seconds):
         return f"{seconds} сек"
     return f"{minutes} мин {seconds} сек"
 
+
